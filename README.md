@@ -1,1 +1,17 @@
-###  Script to Deploy VPC along with its subnets and securities on AWS.
+####  Script to Deploy VPC along with its subnets and securities on AWS.
+ 
+## About
+     
+This is a Fully Automated code build with Terraform to provision ec2 instances on AWS from custom configured VPC. In this project we will be deploying 3 Instances, App, SSH, and a Database server, where Database server will be on a Pruvate network and both APP and SSH server will be on Public Network, also the SSH has made restricted for APP and Database server from outside network.
+      
+## Daigram
+
+## Prerequisites
+
+Need an AWS account with an IAM User, which got Programmatic Access.
+Needs Terraform Installed
+
+## Behind the Stage
+
+    ec2.tf 
+    
