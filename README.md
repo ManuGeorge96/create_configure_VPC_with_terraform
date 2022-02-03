@@ -2,7 +2,7 @@
  
 ## About
      
-This is a Fully Automated code build with Terraform to provision ec2 instances on AWS from custom configured VPC. In this project we will be deploying 3 Instances, App, SSH, and a Database server, where Database server will be on a Pruvate network and both APP and SSH server will be on Public Network, also the SSH has made restricted for APP and Database server from outside network.
+This is a Fully Automated code build with Terraform to provision ec2 instances on AWS from custom configured VPC. In this project we will be deploying 3 Instances, App, SSH, and a Database server, where Database server will be on a Private network and both APP and SSH server will be on Public Network, also the SSH access has made restricted for APP and Database server from outside network.
       
 ## Daigram
 
