@@ -1,0 +1,14 @@
+variable "region" {}
+variable "access" {}
+variable "secret" {}
+variable "vpc_name" {}
+variable "project" {}
+variable "envp" {}
+variable "envd" {}
+variable "ssh_port" {}
+variable "db_port" {}
+variable "web_port" {}
+variable "type" {}
+variable "key" {}
+variable "CIDR" {}
+variable "subnet" {}
