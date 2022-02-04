@@ -17,7 +17,7 @@
      
 This is a Fully Automated code build with Terraform to provision EC2 instances on AWS with custom configured VPC. In this project we will be deploying 3 Instances, App, SSH, and a Database server, where Database server will be on a Private network and both APP and SSH server will be on Public Network, also the SSH access has made restricted for APP and Database server from outside network.
 
-This script will automatically fetch the latest available Amazon Linux ami and do subneting of the IP with the specified value in the <b>terraform.tfvars</b>.
+This script will automatically fetch the latest available Amazon Linux ami and do subneting of the IP, with the specified value mentioned for the variable <b>subnet</b> in <b>terraform.tfvars</b>.
       
 ## Project Outline
 
