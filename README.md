@@ -6,7 +6,7 @@ This is a Fully Automated code build with Terraform to provision EC2 instances o
 
 This script will automatically fetch the latest available Amazon Linux ami and do subneting of the IP with the specified value in the <b>terraform.tfvars<b/>.
       
-## Daigram
+## Project Outline
 
 
 [<img align="center" alt="Unix" width="600" src="https://raw.githubusercontent.com/ManuGeorge96/ManuGeorge96/master/Tools/VPC.drawio.png" />][ln]
