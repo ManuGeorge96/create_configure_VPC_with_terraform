@@ -72,7 +72,7 @@ This script will automatically fetch the latest available Amazon Linux ami and d
 - Output file which returns the Private and Public IP's of the craeted Instances.
 ##
     provider.tf
-- Provider file acting as an gateway for terrafom and AWS Cloud.
+- Provider file acting as a gateway for terrafom to AWS Cloud.
 ##
     terraform.tfvars
 - variable file where you can update the variables like IP_CIDR, Region, Access_key, Secret_key etc.
