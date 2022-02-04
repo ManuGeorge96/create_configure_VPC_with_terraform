@@ -1,4 +1,17 @@
-####  Script to Deploy VPC along with its subnets on AWS Cloud.
+#  Script to Deploy VPC along with its subnets on AWS Cloud
+
+
+## Resouces that will get craeted for this Peoject
+
+- Cloud VPC :- 1
+- Subnets  :- 3  ( 2- Public and 1- Private )
+- Internet Gateway :- 1
+- NAT Gateway  :- 1
+- Elastic IP   :- 1
+- Route Table  :- 2 ( Public and Private )
+- Key Pair :- 1
+- EC2 Instances  :- 3  ( APP, SSH. and DB )
+- Security Groups :- 3  (APP, SSH, and DB )
  
 ## About
      
