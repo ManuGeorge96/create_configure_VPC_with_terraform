@@ -13,8 +13,8 @@ This script will automatically fetch the latest available Amazon Linux ami and d
 
 ## Prerequisites
 
-- Need an AWS account with an IAM User, which got Programmatic Access.
-- Needs to have Terraform Installed
+- Need an AWS account with an IAM User, having Programmatic Access.
+- Needs to have Terraform Installed.
 
 ## Steps to make us of code
 
