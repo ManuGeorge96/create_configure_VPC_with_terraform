@@ -8,10 +8,11 @@ This is a Fully Automated code build with Terraform to provision ec2 instances o
 
 ## Prerequisites
 
-Need an AWS account with an IAM User, which got Programmatic Access.
-Needs Terraform Installed
+- Need an AWS account with an IAM User, which got Programmatic Access.
+- Needs to have Terraform Installed
 
 ## Behind the Stage
 
-    ec2.tf 
+    01-01-vpc.tf
+-     
     
