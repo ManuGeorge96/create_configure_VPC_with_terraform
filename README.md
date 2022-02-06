@@ -1,7 +1,7 @@
 #  Script to Deploy VPC along with its subnets on AWS Cloud
 
 
-## Resouces that will get craeted for this Peoject
+## Resouces Used
 
 - Cloud VPC :- 1
 - Subnets  :- 3  ( 2- Public and 1- Private )
